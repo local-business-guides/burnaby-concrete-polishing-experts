@@ -24,6 +24,9 @@
 - [concrete contractor driveway Burnaby: A Homeowner Guide](https://local-business-guides.github.io/burnaby-concrete-polishing-experts/concrete-contractor-driveway-burnaby/): Find the right concrete contractor driveway Burnaby homeowners can consult about a practical driveway plan.
 - [contractor for concrete driveway Burnaby: What to Check](https://local-business-guides.github.io/burnaby-concrete-polishing-experts/contractor-for-concrete-driveway-burnaby/): Choose a contractor for concrete driveway Burnaby homeowners can consult about scope, access, and surface needs.
 
+## Newsroom
+- [Burnaby Concrete Polishing Experts Share Guide to Polished Concrete Floors](https://local-business-guides.github.io/burnaby-concrete-polishing-experts/news/2026-10-26-burnaby-concrete-polishing-experts-share-guide-to-/): Burnaby Concrete Polishing Experts has released a guide, YouTube video, podcast episode and SoundCloud audio version about polished concrete floors. (2026-10-26)
+
 ## Pages
 - [Polished Concrete Floors in Burnaby, British Columbia](https://local-business-guides.github.io/burnaby-concrete-polishing-experts/): Give your existing concrete a clean, refreshed look with polished concrete floors in Burnaby. Call +1778-654-1222.
 - [About Burnaby Concrete Polishing Experts](https://local-business-guides.github.io/burnaby-concrete-polishing-experts/about/): About Burnaby Concrete Polishing Experts, Burnaby.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/burnaby-concrete-polishing-experts/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/burnaby-concrete-polishing-experts/news/rss.xml)
 - [Main resource site](https://burnaby-concrete-floor-experts.localwebsites.chatgpt.site)
